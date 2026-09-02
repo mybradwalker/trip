@@ -1,3 +1,24 @@
-{
+{"architecture": [
+  {
+  "title": "Ellicott Square Building",
+  "description": "Building",
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ellicott_Square_Building%2C_Main_Street_and_Division_Street%2C_Buffalo%2C_NY.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "links": [
+    {
+      "url": "https://visitbuffalo.com/businesses/ellicott-square-building/",
+      "title": "Visit Buffalo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ellicott_Square_Building",
+      "title": "Wikipedia"
+    },
+    {
+      "url": "https://maps.app.goo.gl/QuVbSXnpcahyHNC47",
+      "title": "Google Map"
+    }
+  ],
+  "hours": "N/A"
+}
+]
   "disclaimer": "Fontana Or Bust"
 }
